@@ -1,0 +1,24 @@
+.h-111px {
+    height: 111px !important;
+}
+
+@media (min-width: 576px) {
+.h-sm-180px {
+        height: 180px !important;
+      }
+}
+
+@media (min-width: 1200px) {
+
+.navbar-expand-xl .navbar-brand .navbar-brand-item {
+      height: 136px;
+      display: block;
+      width: auto;
+}
+}
+
+@media (max-width: 1199.98px) {
+.navbar-expand-xl .navbar-brand .navbar-brand-item {
+  height: 124px;
+}
+}
