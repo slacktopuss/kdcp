@@ -1,0 +1,108 @@
+.h-111px {
+    height: 111px !important;
+}
+
+@media (min-width: 576px) {
+.h-sm-180px {
+        height: 180px !important;
+      }
+}
+
+@media (min-width: 1200px) {
+
+.navbar-expand-xl .navbar-brand .navbar-brand-item {
+      height: 106px;
+      display: block;
+      width: auto;
+}
+}
+
+@media (max-width: 1199.98px) {
+.navbar-expand-xl .navbar-brand .navbar-brand-item {
+  height: 124px;
+}
+}
+
+.nl-white.nav-link {
+  color: #fff;
+}
+
+.pobeda-21 {
+    font-family: 'Pobeda';
+	font-weight: bold;
+	font-size: 21px;
+}
+
+.pobeda-b-3 {
+    font-family: 'Pobeda';
+	font-weight: bold;
+	font-size: 3rem;
+}
+
+.marapfhont-21 {
+    font-family: 'Marapfhont';
+    font-weight: normal;
+    font-style: normal;
+	font-size: 28px;
+    text-transform: uppercase;
+}
+
+.acrom-16 {
+    font-family: 'Acrom';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 16px;
+    text-transform: uppercase;
+}
+
+.proxima-16 {
+    font-family: 'ProximaNova';
+    font-weight: bold;
+    font-style: normal;
+    font-size: 18px;
+    text-transform: uppercase;
+	color: black;
+	--bs-navbar-color: #000000;
+}
+
+.bottom-5 {
+  bottom: 5px !important;
+}
+
+.navbtn {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 6px 11px;
+  max-width: 190px;
+}
+
+:root {
+  --bs-blue: #032447;
+  --bs-blue-rgb: 3, 36, 71;
+}
+
+.btn-blue {
+  --bs-btn-bg: #032447;
+  --bs-btn-border-color: #032447;
+  --bs-btn-hover-bg: #193247;
+  --bs-btn-hover-border-color: #172f42;
+  --bs-btn-focus-shadow-rgb: 63, 88, 109;
+  --bs-btn-active-bg: #172f42;
+  --bs-btn-active-border-color: #162c3e;
+  --bs-btn-disabled-bg: #1d3b53;
+  --bs-btn-disabled-border-color: #1d3b53;
+}
+
+.herzen {
+    max-height: 290px;
+}
+
+.avatar-img {
+    padding: 10px 60px;
+    border: 1px solid #d8d8d8;
+}
+
+.nok {
+    max-width: 60%;
+}
